@@ -34,4 +34,6 @@ body {
 
 .container .box::before {
     position: absolute;
-}.content
+}
+
+.content
