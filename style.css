@@ -29,5 +29,5 @@ body {
     justify-content: center;
     align-items: center;
     margin: 40px 30px;
-    backdrop-filter: blur(5px);
+    transition: ;
 }
