@@ -13,4 +13,12 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #161623;
+}.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    z-index: 1;
 }
