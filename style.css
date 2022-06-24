@@ -39,7 +39,8 @@ body {
     left: 50px;
     width: 50%;
     height: 100%;
-    background: #fff;border-radius: 8px;
+    background: #fff;
+    border-radius: 8px;
 }
 
 .content {
