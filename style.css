@@ -65,5 +65,6 @@ body {
     transform: skewX(0deg);
 }
 
-.content {z-index: 1;
+.content {
+    z-index: 1;
 }
