@@ -28,6 +28,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: ;
+    margin: 40px;
     backdrop-filter: blur(5px);
 }
