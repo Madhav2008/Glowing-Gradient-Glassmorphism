@@ -19,7 +19,9 @@ body {
     align-items: center;
     flex-wrap: wrap;
     padding: 40px 0;
-}.container .card {
+}
+
+.container .card {
     position: relative;
     width: 280px;
     height: 400px;
