@@ -45,7 +45,7 @@ body {
     transition: 0.5s;
 }
 
-.container .box::before {
+.container .box::after {
     content: '';
     position: absolute;
     top: 0;
