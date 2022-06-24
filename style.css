@@ -68,7 +68,7 @@ body {
 }
 
 .container .box:nth-child(1)::before,
-.container .box:nth-child()::after {
+.container .box:nth-child(1)::after {
     transform: skewX(0deg);
     left: 20px;
     width: calc(100% - 90px);
