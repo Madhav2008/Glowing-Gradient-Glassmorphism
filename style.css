@@ -32,4 +32,6 @@ body {
     transition: 0.5s;
 }
 
-.container .box::before {position: absolute;}
+.container .box::before {
+    position: absolute;
+}
