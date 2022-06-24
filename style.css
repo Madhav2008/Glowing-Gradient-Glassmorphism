@@ -66,6 +66,12 @@ body {
     left: 20px;
     width: calc(100% - 90px);
 }
+.container .box:hover::before,
+.container .box:hover::after {
+    transform: skewX(0deg);
+    left: 20px;
+    width: calc(100% - 90px);
+}
 
 .content {
     z-index: 1;
