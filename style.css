@@ -62,7 +62,7 @@ body {
 
 .container .box:hover::before,
 .container .box:hover::after {
-    transform: skewX(0deg);
+    transform: skewX(0deg);left: ;
 }
 
 .content {
