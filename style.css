@@ -56,7 +56,7 @@ body {
     border-radius: 8px;
     transform: skewX(15deg);
     transition: 0.5s;
-    filter: blur(30px);transition: ;
+    filter: blur(30px);transition: 0.5s;
 }
 
 .content {
