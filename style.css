@@ -60,7 +60,8 @@ body {
     transition: 0.5s;
 }
 
-.container .box:hover::before ,{}
+.container .box:hover::before,
+{}
 
 .content {
     display: none;
