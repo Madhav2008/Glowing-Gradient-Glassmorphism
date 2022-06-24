@@ -61,7 +61,7 @@ body {
 }
 
 .container .box:hover::before,
-.container .box:hover::after {}
+.container .box:hover::after {transform: ;}
 
 .content {
     display: none;
