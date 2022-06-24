@@ -58,7 +58,7 @@ body {
     transition: 0.5s;
     filter: blur(30px);
     transition: 0.5s;
-}.container .box:hover
+}.container .box:hover{}
 
 .content {
     display: none;
