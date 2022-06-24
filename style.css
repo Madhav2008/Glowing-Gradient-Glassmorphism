@@ -34,7 +34,7 @@ body {
 
 .container .box::before {
     content: '';
-    position: absolute;
+    position: absolute;top: ;
 }
 
 .content {
