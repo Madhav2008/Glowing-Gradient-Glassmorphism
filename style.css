@@ -55,7 +55,7 @@ body {
     background: #fff;
     border-radius: 8px;
     transform: skewX(15deg);
-    transition: 0.5s;
+    transition: 0.5s;filter: ;
 }
 
 .content {
