@@ -35,7 +35,8 @@ body {
 .container .box::before {
     content: '';
     position: absolute;
-    top: 0;left: 50px;
+    top: 0;
+    left: 50px;
 }
 
 .content {
