@@ -61,7 +61,7 @@ body {
 }
 
 .container .box:hover::before,
-.container .box:hover::before,
+.container .box:hover::before
 {}
 
 .content {
