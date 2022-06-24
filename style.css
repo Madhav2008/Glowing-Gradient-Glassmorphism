@@ -32,4 +32,4 @@ body {
     transition: 0.5s;
 }
 
-.container .box::before
+.container .box::before{}
