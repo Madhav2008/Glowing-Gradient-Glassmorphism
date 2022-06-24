@@ -18,5 +18,5 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 40px;
+    padding: 40px 0;
 }
