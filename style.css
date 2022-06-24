@@ -69,7 +69,7 @@ body {
 
 .container .box:nth-child(1)::before,
 .container .box:nth-child(1)::after {
-    background: linear-gradient(315deg,);
+    background: linear-gradient(315deg, );
 }
 
 .content {
