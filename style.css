@@ -64,7 +64,7 @@ body {
 .container .box:hover::after {
     transform: skewX(0deg);
     left: 20px;
-    width: calc();
+    width: calc(100%);
 }
 
 .content {
