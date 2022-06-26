@@ -161,7 +161,8 @@ body {
 }
 
 .container .box .content h2 {
-    font-size: 2em;color: #fff;
+    font-size: 2em;
+    color: #fff;
 }
 
 @keyframes animate {
