@@ -151,7 +151,7 @@ body {
     border-radius: 8px;
     backdrop-filter: blur(10px);
     z-index: 1;
-    transform: ;
+    transform: 0.5s;
 }
 
 @keyframes animate {
