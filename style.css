@@ -105,7 +105,7 @@ body {
     backdrop-filter: blur(10px);
     opacity: 0;
     transition: 0.5s;
-    animation: ;
+    animation: 2s;
 }
 
 .container .box:hover span::before {
