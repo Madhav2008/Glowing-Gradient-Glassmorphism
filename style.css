@@ -156,7 +156,7 @@ body {
 }
 
 .container:hover .box .content {
-    left: -25px;
+    left: -25px;padding: ;
 }
 
 @keyframes animate {
