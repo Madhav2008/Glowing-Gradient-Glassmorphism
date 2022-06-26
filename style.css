@@ -76,6 +76,10 @@ body {
 .container .box:nth-child(1)::after {
     background: linear-gradient(315deg, #ffbc00, #ff0058);
 }
+.container .box:nth-child(1)::before,
+.container .box:nth-child(1)::after {
+    background: linear-gradient(315deg, #ffbc00, #ff0058);
+}
 
 .content {
     z-index: 1;
