@@ -142,7 +142,8 @@ body {
     opacity: 1;
 }
 
-.content {position: relative;
+.content {
+    position: relative;
     z-index: 1;
 }
 
