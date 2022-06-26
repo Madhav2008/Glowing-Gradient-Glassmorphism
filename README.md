@@ -8,7 +8,6 @@
 
 ## Card One
 
-![image](https://user-images.githubusercontent.com/72864817/175825713-bcf43663-90b2-4d8f-abe4-8e8081486d78.png)
 
 ## Card Two
 
