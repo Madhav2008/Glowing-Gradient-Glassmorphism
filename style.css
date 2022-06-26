@@ -179,7 +179,7 @@ body {
     background: #fff;
     padding: 10px;
     border-radius: 4px;
-    text-decoration: none;
+    text-decoration: none;font-weight: ;
 }
 
 @keyframes animate {
