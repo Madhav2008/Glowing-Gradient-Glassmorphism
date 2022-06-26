@@ -84,7 +84,7 @@ body {
 
 .container .box span {
     display: block;
-    position: absolute;
+    position: absolute;top: ;
 }
 
 .content {
