@@ -103,7 +103,8 @@ body {
     border-radius: 8px;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
-    opacity: 0;transition: 0.5s;
+    opacity: 0;
+    transition: 0.5s;
 }
 
 .content {
