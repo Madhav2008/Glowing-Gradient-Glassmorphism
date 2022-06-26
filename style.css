@@ -121,7 +121,7 @@ body {
 }
 
 @keyframes animate {
-    0% {
+    0%,100% {
         transform: translateY(10px);
     }
 
