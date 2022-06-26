@@ -106,7 +106,7 @@ body {
     opacity: 0;
     transition: 0.5s;
     animation: animate 2s ease-in-out infinite;
-    box-shadow: 0 5px 15px rgba(0, green, blue, 0.05);
+    box-shadow: 0 5px 15px rgba(0, 0, blue, 0.05);
 }
 
 .container .box:hover span::before {
