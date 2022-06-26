@@ -101,7 +101,7 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 8px;
-    background: rgba(red, green, blue, 0.1);
+    background: rgba(255, green, blue, 0.1);
 }
 
 .content {
