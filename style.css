@@ -153,7 +153,9 @@ body {
     z-index: 1;
     transform: 0.5s;
     color: #fff;
-}.container:hover .box .content {}
+}
+
+.container:hover .box .content {left: ;}
 
 @keyframes animate {
 
