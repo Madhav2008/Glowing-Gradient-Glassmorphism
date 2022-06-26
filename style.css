@@ -163,7 +163,7 @@ body {
 .container .box .content h2 {
     font-size: 2em;
     color: #fff;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 .container .box .content p {
