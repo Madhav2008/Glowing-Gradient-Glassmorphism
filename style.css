@@ -144,7 +144,7 @@ body {
 
 .container .box .content {
     position: relative;
-    left: 0;
+    left: 0;padding: ;
     z-index: 1;
 }
 
