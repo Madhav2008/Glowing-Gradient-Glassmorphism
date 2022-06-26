@@ -160,7 +160,7 @@ body {
     padding: 60px 40px;
 }
 
-.container .box .content h2 {font-size: ;}
+.container .box .content h2 {font-size: 2em;}
 
 @keyframes animate {
 
