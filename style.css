@@ -91,7 +91,7 @@ body {
     bottom: 0;
     z-index: 50;
     pointer-events: none;
-}
+}.container .box span 
 
 .content {
     z-index: 1;
