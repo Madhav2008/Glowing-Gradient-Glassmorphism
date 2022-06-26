@@ -174,7 +174,8 @@ body {
 
 .container .box .content a {
     display: inline-block;
-    font-size: 1.1em;color: #111;
+    font-size: 1.1em;
+    color: #111;
 }
 
 @keyframes animate {
