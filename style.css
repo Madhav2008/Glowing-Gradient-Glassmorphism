@@ -146,7 +146,7 @@ body {
     position: relative;
     left: 0;
     padding: 20px 40px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.05);
     z-index: 1;
 }
 
