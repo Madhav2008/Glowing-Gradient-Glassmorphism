@@ -82,7 +82,7 @@ body {
     background: linear-gradient(315deg, #4dff03, #00d0ff);
 }
 
-.container .box span {display: ;}
+.container .box span {display: block;}
 
 .content {
     z-index: 1;
