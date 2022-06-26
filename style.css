@@ -133,7 +133,7 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
 }
 
-.container .box:hover span::before {
+.container .box:hover span::after {
     top: -50px;
     left: 50px;
     width: 100px;
