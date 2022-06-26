@@ -95,7 +95,7 @@ body {
 
 .container .box span::before {
     content: '';
-    position: absolute;top: ;
+    position: absolute;top: 0;
 }
 
 .content {
