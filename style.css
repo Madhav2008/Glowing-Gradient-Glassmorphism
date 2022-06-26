@@ -177,7 +177,7 @@ body {
     font-size: 1.1em;
     color: #111;
     background: #fff;
-    padding: 10px;
+    padding: 10px;border-radius: ;
 }
 
 @keyframes animate {
