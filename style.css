@@ -60,7 +60,7 @@ body {
     transition: 0.5s;
 }
 
-.container .box:hover::before,
+.container .box:hover:before,
 .container .box:hover::after {
     transform: skewX(0deg);
     left: 20px;
