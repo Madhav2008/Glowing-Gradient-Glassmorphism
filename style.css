@@ -80,7 +80,9 @@ body {
 .container .box:nth-child(3)::before,
 .container .box:nth-child(3)::after {
     background: linear-gradient(315deg, #4dff03, #00d0ff);
-}.container .box span {}
+}
+
+.container .box span {}
 
 .content {
     z-index: 1;
