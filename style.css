@@ -110,7 +110,7 @@ body {
 .container .box:hover span::before {
     top: -50px;
     left: 50px;
-    width: 100%;
+    width: 100px;
     height: 100%;
 }
 
