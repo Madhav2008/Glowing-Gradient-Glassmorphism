@@ -131,7 +131,7 @@ body {
     transition: 0.5s;
     animation: animate 2s ease-in-out infinite;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-    animation-delay: ;
+    animation-delay: -1s;
 }
 
 .container .box:hover span::after {
