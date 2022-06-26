@@ -101,7 +101,7 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 8px;
-    background: rgba(255, 255, 255, 0.1);backdrop-filter: ;
+    background: rgba(255, 255, 255, 0.1);backdrop-filter: blur;
 }
 
 .content {
