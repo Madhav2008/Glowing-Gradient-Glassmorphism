@@ -134,7 +134,7 @@ body {
 }
 
 .container .box:hover span::after {
-    top: -50px;
+    bottom: -50px;
     left: 50px;
     width: 100px;
     height: 100px;
