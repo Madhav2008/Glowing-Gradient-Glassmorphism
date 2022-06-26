@@ -155,7 +155,7 @@ body {
     color: #fff;
 }
 
-.container .box .content {
+.container .box:hover .content {
     left: -25px;
     padding: 60px 40px;
 }
