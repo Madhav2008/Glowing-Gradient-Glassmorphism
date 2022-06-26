@@ -105,7 +105,7 @@ body {
     backdrop-filter: blur(10px);
     opacity: 0;
     transition: 0.5s;
-}.container .box span::before{}
+}.container .box span::before {}
 
 .content {
     z-index: 1;
