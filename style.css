@@ -105,7 +105,8 @@ body {
     backdrop-filter: blur(10px);
     opacity: 0;
     transition: 0.5s;
-    animation: animate 2s ease-in-out infinite;box-shadow: ;
+    animation: animate 2s ease-in-out infinite;
+    box-shadow: ;
 }
 
 .container .box:hover span::before {
@@ -121,7 +122,9 @@ body {
 }
 
 @keyframes animate {
-    0%,100% {
+
+    0%,
+    100% {
         transform: translateY(10px);
     }
 
