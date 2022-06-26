@@ -72,7 +72,7 @@ body {
     background: linear-gradient(315deg, #ffbc00, #ff0058);
 }
 
-.container .box:nth-child(2)::before,
+.container .box:nth-child(2):before,
 .container .box:nth-child(2):after {
     background: linear-gradient(315deg, #03a9f4, #ff0058);
 }
