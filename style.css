@@ -120,4 +120,6 @@ body {
     z-index: 1;
 }
 
-@keyframes animate {0% {}}
+@keyframes animate {
+    0% {}
+}
