@@ -83,7 +83,8 @@ body {
 }
 
 .container .box span {
-    display: block;position: absolute;
+    display: block;
+    position: absolute;
 }
 
 .content {
