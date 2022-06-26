@@ -93,7 +93,7 @@ body {
     pointer-events: none;
 }
 
-.container .box span::before {}
+.container .box span::before {content: ;}
 
 .content {
     z-index: 1;
