@@ -155,7 +155,7 @@ body {
     color: #fff;
 }
 
-.container:hover .box .content {left: ;}
+.container:hover .box .content {left: -25px;}
 
 @keyframes animate {
 
