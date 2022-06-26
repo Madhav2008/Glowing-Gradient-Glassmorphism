@@ -142,7 +142,7 @@ body {
     opacity: 1;
 }
 
-.container .box.content {
+.container .box .content {
     position: relative;
     z-index: 1;
 }
