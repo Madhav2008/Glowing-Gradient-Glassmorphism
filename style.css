@@ -172,7 +172,8 @@ body {
     line-height: 1.4em;
 }
 
-.container .box .content a {display: inline-block;
+.container .box .content a {
+    display: inline-block;
     font-size: 1.1em;
 }
 
