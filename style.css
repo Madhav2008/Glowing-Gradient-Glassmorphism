@@ -107,7 +107,9 @@ body {
     transition: 0.5s;
 }
 
-.container .box:hover span::before {top: 50px;}
+.container .box:hover span::before {
+    top: 50px;
+}
 
 .content {
     z-index: 1;
