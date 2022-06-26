@@ -142,7 +142,7 @@ body {
     opacity: 1;
 }
 
-.container {
+.container .box {
     z-index: 1;
 }
 
