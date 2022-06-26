@@ -117,7 +117,7 @@ body {
     opacity: 1;
 }
 
-.container .box span::before {
+.container .box span::after {
     content: '';
     position: absolute;
     top: 0;
