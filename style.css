@@ -176,7 +176,7 @@ body {
     display: inline-block;
     font-size: 1.1em;
     color: #111;
-    background: #fff;padding: ;
+    background: #fff;padding: 10px;
 }
 
 @keyframes animate {
